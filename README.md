@@ -8,4 +8,4 @@ How to release a new version :
 - It should contain multiple xcode versions of Realm & RealmSwift xcframeworks
 - Run swift package compute-checksum <path> from this repo folder for both zips
 - Replace version & checksums in package.swift
-- Push, tag with the same version number as original repo & upload both zips as assets of the release
+- Push, tag with the same version number as original Realm repo & upload both zips as assets of the release
