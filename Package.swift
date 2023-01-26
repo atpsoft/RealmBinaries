@@ -4,8 +4,8 @@
 import PackageDescription
 
 let realmVersion = "10.33.0"
-let realmChecksum = "3257ab9ab3e0e10d7b5d1986ae5700b31d3b0374af65a1364cf10799d20707b7"
-let realmSwiftChecksum = "0864e69564cb454cf299f2dc3c624b34387ea6a6d96aa4b9d4b3513d7ed91249"
+let realmChecksum = "11fbe08534f421b77798e36a1d5708ef0d0479bb8bef84686ad9bff75845ed15"
+let realmSwiftChecksum = "70228e71d3d1631cc4f9694f81132dffdafbda4ebc957e227cf8f998ef76e960"
 
 func buildTargets() -> [Target] {
     let baseURL = "https://github.com/atpsoft/RealmBinaries/releases/download/\(realmVersion)"
